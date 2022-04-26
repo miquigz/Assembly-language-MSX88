@@ -1,6 +1,7 @@
 Practica 2(Arquitectura de Computadoras UNLP):
 2) Escribir un programa que muestre en pantalla todos los caracteres disponibles
 en el simulador MSX88, comenzando con el caracter cuyo código es el número 01H.
+
 ;	01h    hasta -->	~ = (7Eh)
 		ORG 1000h
 cad		DB		?
